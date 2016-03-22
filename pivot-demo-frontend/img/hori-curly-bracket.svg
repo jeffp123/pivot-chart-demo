@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="hori-curly-bracket.svg"
+   inkscape:export-filename="/Users/chaim/Desktop/hori-curly-bracket.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.8167939"
+     inkscape:cx="150.5"
+     inkscape:cy="831"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1011"
+     inkscape:window-height="542"
+     inkscape:window-x="1656"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0,1,-1,0,-13.934426,10.540163)"
+       style="font-size:516.78308105px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2985"
+       inkscape:export-filename="/Users/chaim/Desktop/hori-curly-bracket.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 241.82202,-130.59436 c -16.53705,-11.886 -31.00699,-28.9399 -31.00699,-69.24894 0,-23.77199 5.68461,-78.55105 5.68461,-103.35661 0,-41.85939 -33.07412,-57.87971 -36.69159,-59.43006 2.06713,-0.51678 36.69159,-16.02031 36.69159,-59.43005 0,-24.80556 -5.68461,-79.06784 -5.68461,-103.35662 0,-39.79225 14.46994,-56.32936 31.00699,-68.21536 -54.06597,2.70988 -64.30487,58.9896 -64.59789,82.16851 0,22.22165 6.2014,60.46365 6.2014,88.88669 0,43.40973 -29.97343,54.77901 -37.72517,58.39648 l 0,2.58392 c 7.23496,2.58391 37.72517,14.98675 37.72517,58.91327 0,28.42304 -6.2014,67.18182 -6.2014,88.88669 3.81294,52.10571 18.66603,74.90603 64.59789,83.20208"
+         style="font-variant:normal;font-stretch:normal;font-family:ITF Devanagari;-inkscape-font-specification:ITF Devanagari"
+         id="path3000"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscssccsccscc" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2989"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2991"><rect
+           id="rect2993"
+           width="320"
+           height="48.57143"
+           x="260"
+           y="543.79077" /></flowRegion><flowPara
+         id="flowPara2995"></flowPara></flowRoot>    <path
+       style="fill:#eeeeee;fill-opacity:1"
+       d="m 119.72873,248.24409 c 7.41521,-9.95086 20.03607,-18.53574 33.15112,-22.54985 16.49904,-5.04981 32.82622,-5.27811 86.17517,-1.205 36.74144,2.80515 58.92081,3.0499 66.97309,0.73901 11.4202,-3.27743 20.84397,-9.03752 29.41379,-17.97858 4.2962,-4.48229 9.02531,-10.43529 10.50913,-13.22887 l 2.69786,-5.07926 3.15655,5.74381 c 6.16743,11.22258 18.36897,22.32639 30.10141,27.39329 13.86611,5.98841 22.96057,6.2608 76.80116,2.30037 53.01652,-3.89983 69.1011,-3.6823 84.77014,1.14645 13.90831,4.28615 25.23332,12.09332 33.35785,22.99605 l 2.862,3.84067 -231.51901,0 -231.51899,0 3.06873,-4.11809 z"
+       id="path3036"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/chaim/Desktop/hori-curly-bracket.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

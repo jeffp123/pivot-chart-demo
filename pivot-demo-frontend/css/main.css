@@ -1,0 +1,132 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#filters-chart { 
+    height:300px;
+}
+
+#pivot-chart { 
+    height:300px;
+}
+
+.pivot-table th, .pivot-table td {
+    text-align:center;
+}
+
+.transparent-back {
+    background-color: transparent;
+    border-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+
+.transparent-back:hover {
+    background-color: transparent;
+    border-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+
+a, input, button {
+    pointer-events: auto;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+.icon-arrow-left {
+    background-image: url(svg/back-arrow.svg);
+    width: 26px;
+    height: 26px;
+    background-size: 26px 26px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.icon-arrow-right {
+    background-image: url(svg/back-arrow.svg);
+    width: 26px;
+    height: 26px;
+    background-size: 26px 26px;
+    background-repeat: no-repeat;
+    background-position: right;
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.question-select {
+    position: absolute;
+    top: 120px;
+}
+
+/*
+.question-select-wrapper {
+    position: static;
+}
+*/
+
+.title-bg-color-0 {
+    background-color:None;
+}
+
+.subtitle-bg-color-0 {
+    background-color:None;
+}
+
+.entry-bg-color-0 {
+    background-color:None;
+}
+
+.title-bg-color-1 {
+    background-color:#CFDFF5;
+}
+
+.subtitle-bg-color-1 {
+    background-color:#E4EEFB;
+}
+
+.entry-bg-color-1 {
+  background-color:#F2F6FE;
+}
+
+.title-bg-color-2 {
+    background-color:#E0CFF6;
+}
+
+.subtitle-bg-color-2 {
+    background-color:#EEE5FB;
+}
+
+.entry-bg-color-2 {
+    background-color:#F7F1FE;
+}
+
+.title-bg-color-3 {
+  background-color:#FBCFE2;
+}
+
+.subtitle-bg-color-3 {
+  background-color:#FDE4EF;
+}
+
+.entry-bg-color-3 {
+  background-color:#FEF1F8;
+}
+
+
