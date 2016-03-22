@@ -1,7 +1,7 @@
 Pivot Chart Demo
 ================
 
-This is a project that uses ElasticSearch, Flask, and the d3 library XCharts to demonstrate pivot charts and graphs based on aggregation queries to ElasticSearch. The front-end uses BackboneJS and Twitter Bootstrap.
+This is a project that uses ElasticSearch, Flask, and the d3 library XCharts to demonstrate pivot charts and graphs based on aggregation queries to ElasticSearch. The front-end uses BackboneJS and Twitter Bootstrap. The backend runs on Tornado web server and Flask.
 
 Requirements
 ------------
