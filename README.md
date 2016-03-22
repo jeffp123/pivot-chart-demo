@@ -78,6 +78,8 @@ python pivot_demo_service.py -p 8080
 You should now be able to view the demo in a web browser:
 http://localhost:8080
 
+If you are accessing it remotely, you will need to supply the username/password: pivot/demo
+
 The Front-end
 -------------
 
